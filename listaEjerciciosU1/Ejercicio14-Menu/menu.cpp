@@ -42,12 +42,7 @@ int main(int argc, char const *argv[])
            cout << " Elegiste Fresa que bien! " << endl;
            system ("pause");
     }
-       else
-           if ( eleccion == 1 ){
-           system ("cls");    
-           cout << " Elegiste Chocolate que bien! " << endl;
-           system ("pause");
-    }
+       
            else 
                if ( eleccion == 0 ){
 
